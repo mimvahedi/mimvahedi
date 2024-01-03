@@ -1,0 +1,85 @@
+ <svg xmlns="http://www.w3.org/2000/svg" width="15" height="13" viewBox="0 0 15 13">
+        <style>
+          rect {
+              color: #41a1c3;
+          }
+  
+          rect {
+              animation: rect-in 3s ease infinite;
+              animation-delay: calc(var(--i) * 20ms)
+          }
+  
+          @keyframes rect-in {
+              33% {
+                  color: #0060ff;
+              }
+          }
+        </style>
+        <rect width="1" height="1" fill="currentColor" x="13" y="1" style="--i:0"></rect>
+        <rect width="1" height="1" fill="currentColor" x="13" y="2" style="--i:1"></rect>
+        <rect width="1" height="1" fill="currentColor" x="13" y="3" style="--i:2"></rect>
+        <rect width="1" height="1" fill="currentColor" x="12" y="3" style="--i:3"></rect>
+        <rect width="1" height="1" fill="currentColor" x="12" y="1" style="--i:4"></rect>
+        <rect width="1" height="1" fill="currentColor" x="11" y="2" style="--i:5"></rect>
+        <rect width="1" height="1" fill="currentColor" x="10" y="2" style="--i:6"></rect>
+        <rect width="1" height="1" fill="currentColor" x="10" y="1" style="--i:7"></rect>
+        <rect width="1" height="1" fill="currentColor" x="9" y="1" style="--i:8"></rect>
+        <rect width="1" height="1" fill="currentColor" x="9" y="3" style="--i:9"></rect>
+        <rect width="1" height="1" fill="currentColor" x="8" y="3" style="--i:10"></rect>
+        <rect width="1" height="1" fill="currentColor" x="7" y="2" style="--i:11"></rect>
+        <rect width="1" height="1" fill="currentColor" x="7" y="1" style="--i:12"></rect>
+        <rect width="1" height="1" fill="currentColor" x="6" y="1" style="--i:13"></rect>
+        <rect width="1" height="1" fill="currentColor" x="7" y="3" style="--i:14"></rect>
+        <rect width="1" height="1" fill="currentColor" x="6" y="3" style="--i:15"></rect>
+        <rect width="1" height="1" fill="currentColor" x="5" y="2" style="--i:16"></rect>
+        <rect width="1" height="1" fill="currentColor" x="5" y="1" style="--i:17"></rect>
+        <rect width="1" height="1" fill="currentColor" x="4" y="2" style="--i:18"></rect>
+        <rect width="1" height="1" fill="currentColor" x="3" y="2" style="--i:19"></rect>
+        <rect width="1" height="1" fill="currentColor" x="3" y="3" style="--i:20"></rect>
+        <rect width="1" height="1" fill="currentColor" x="2" y="3" style="--i:21"></rect>
+        <rect width="1" height="1" fill="currentColor" x="2" y="1" style="--i:22"></rect>
+        <rect width="1" height="1" fill="currentColor" x="13" y="5" style="--i:23"></rect>
+        <rect width="1" height="1" fill="currentColor" x="12" y="5" style="--i:24"></rect>
+        <rect width="1" height="1" fill="currentColor" x="13" y="6" style="--i:25"></rect>
+        <rect width="1" height="1" fill="currentColor" x="13" y="7" style="--i:26"></rect>
+        <rect width="1" height="1" fill="currentColor" x="12" y="7" style="--i:27"></rect>
+        <rect width="1" height="1" fill="currentColor" x="11" y="7" style="--i:28"></rect>
+        <rect width="1" height="1" fill="currentColor" x="11" y="6" style="--i:29"></rect>
+        <rect width="1" height="1" fill="currentColor" x="10" y="6" style="--i:30"></rect>
+        <rect width="1" height="1" fill="currentColor" x="10" y="5" style="--i:31"></rect>
+        <rect width="1" height="1" fill="currentColor" x="9" y="5" style="--i:32"></rect>
+        <rect width="1" height="1" fill="currentColor" x="9" y="7" style="--i:33"></rect>
+        <rect width="1" height="1" fill="currentColor" x="8" y="7" style="--i:34"></rect>
+        <rect width="1" height="1" fill="currentColor" x="8" y="6" style="--i:35"></rect>
+        <rect width="1" height="1" fill="currentColor" x="8" y="5" style="--i:36"></rect>
+        <rect width="1" height="1" fill="currentColor" x="7" y="5" style="--i:37"></rect>
+        <rect width="1" height="1" fill="currentColor" x="6" y="7" style="--i:38"></rect>
+        <rect width="1" height="1" fill="currentColor" x="7" y="7" style="--i:39"></rect>
+        <rect width="1" height="1" fill="currentColor" x="6" y="6" style="--i:40"></rect>
+        <rect width="1" height="1" fill="currentColor" x="5" y="6" style="--i:41"></rect>
+        <rect width="1" height="1" fill="currentColor" x="5" y="5" style="--i:42"></rect>
+        <rect width="1" height="1" fill="currentColor" x="4" y="5" style="--i:43"></rect>
+        <rect width="1" height="1" fill="currentColor" x="4" y="7" style="--i:44"></rect>
+        <rect width="1" height="1" fill="currentColor" x="2" y="5" style="--i:45"></rect>
+        <rect width="1" height="1" fill="currentColor" x="1" y="5" style="--i:46"></rect>
+        <rect width="1" height="1" fill="currentColor" x="1" y="6" style="--i:47"></rect>
+        <rect width="1" height="1" fill="currentColor" x="2" y="7" style="--i:48"></rect>
+        <rect width="1" height="1" fill="currentColor" x="12" y="9" style="--i:49"></rect>
+        <rect width="1" height="1" fill="currentColor" x="12" y="10" style="--i:50"></rect>
+        <rect width="1" height="1" fill="currentColor" x="13" y="10" style="--i:51"></rect>
+        <rect width="1" height="1" fill="currentColor" x="13" y="11" style="--i:52"></rect>
+        <rect width="1" height="1" fill="currentColor" x="10" y="9" style="--i:53"></rect>
+        <rect width="1" height="1" fill="currentColor" x="10" y="10" style="--i:54"></rect>
+        <rect width="1" height="1" fill="currentColor" x="10" y="11" style="--i:55"></rect>
+        <rect width="1" height="1" fill="currentColor" x="8" y="10" style="--i:56"></rect>
+        <rect width="1" height="1" fill="currentColor" x="7" y="9" style="--i:57"></rect>
+        <rect width="1" height="1" fill="currentColor" x="7" y="11" style="--i:58"></rect>
+        <rect width="1" height="1" fill="currentColor" x="6" y="11" style="--i:59"></rect>
+        <rect width="1" height="1" fill="currentColor" x="5" y="10" style="--i:60"></rect>
+        <rect width="1" height="1" fill="currentColor" x="4" y="9" style="--i:61"></rect>
+        <rect width="1" height="1" fill="currentColor" x="4" y="11" style="--i:62"></rect>
+        <rect width="1" height="1" fill="currentColor" x="2" y="9" style="--i:63"></rect>
+        <rect width="1" height="1" fill="currentColor" x="1" y="9" style="--i:64"></rect>
+        <rect width="1" height="1" fill="currentColor" x="1" y="10" style="--i:65"></rect>
+        <rect width="1" height="1" fill="currentColor" x="2" y="11" style="--i:66"></rect>
+    </svg>
