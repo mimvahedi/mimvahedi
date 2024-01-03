@@ -1,1 +1,1 @@
-![icon.svg](icon.svg)
+<img src="icon.svg" width="300">
